@@ -1,8 +1,8 @@
 # MyDump-SH4A
-<br>
+
 简介
 ===
-MyDump用于反汇编Casio Prizm计算器的Bootloader及系统<br>
+MyDump用于反汇编Casio Prizm计算器的Bootloader及系统  
 根据[wiki](https://prizm.cemetech.net/index.php?title=Prizm_Programming_Portal)的介绍,<br>
 bootloader位于闪存的第一个128KB扇区(0xA0000000or0x80000000开始)<br>
 操作系统位于0x80020000到0x80B5FFFF<br>
