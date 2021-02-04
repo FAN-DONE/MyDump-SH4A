@@ -8,7 +8,7 @@ MyDump用于反汇编Casio Prizm计算器的Bootloader及系统<br>
 
 资料
 ===
-除了[Prizmwiki]()外,还有一些可用的网站:
+除了[Prizmwiki](https://prizm.cemetech.net/index.php?title=Prizm_Programming_Portal)外,还有一些可用的网站:<br>
 *https://media.taricorp.net/prizm/
 *https://www.cemetech.net/
 ......
